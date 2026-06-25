@@ -106,7 +106,9 @@ dotfiles/
 
 ## 🚀 Install
 
+> **Note:** Not tested. Use on your own risk 
 > **Prerequisites:** Arch Linux (or Arch-based), `paru` or `yay` AUR helper
+
 
 ### 1 — Clone the repo
 
