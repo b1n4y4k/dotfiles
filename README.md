@@ -1,6 +1,6 @@
 # dotfiles
 
-[![demo](screenshots/desktop.png)](https://github.com/YOUR_USERNAME/dotfiles/releases/download/v1.0/recording.mp4)
+[![demo](screenshots/desktop.png)](https://github.com/b1n4y4k/dotfiles/releases/download/v1.0/recording.mp4)
 
 ## stack
 
