@@ -190,8 +190,3 @@ Hyprland
 
 ---
 
-<div align="center">
-
-Made with 󰣇 on Arch · **[b1n4y4k](https://github.com/b1n4y4k)**
-
-</div>
