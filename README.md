@@ -15,15 +15,17 @@
 
 ## 📸 Screenshots
 
-| | |
+| Desktop | Overview |
 |:---:|:---:|
 | ![Desktop](screenshots/desktop.png) | ![Overview](screenshots/overview.png) |
-| *Desktop* | *Overview* |
-| ![Rofi Launcher](screenshots/rofi-launcher.png) | ![Clipboard](screenshots/clipboard.png) |
-| * App Launcher* |  *Clipboard Manager* |
-| ![Powermenu](screenshots/powermenu.png) | |![Wallpaper](screenshots/wallapaper.png) |
-| *Power Menu* | | *Wallpaper Selector |
 
+| Rofi Launcher | Clipboard Manager |
+|:---:|:---:|
+| ![Rofi Launcher](screenshots/rofi-launcher.png) | ![Clipboard](screenshots/clipboard.png) |
+
+| Power Menu | Wallpaper Selector |
+|:---:|:---:|
+| ![Powermenu](screenshots/powermenu.png) | ![Wallpaper](screenshots/wallpaper.png) |
 
 ---
 
