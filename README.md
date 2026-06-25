@@ -47,18 +47,6 @@
 
 ---
 
-## ✨ Highlights
-
-- **Hyprland Lua config** — full compositor setup written in Lua with custom bezier animation curves (`overshot`, `crazyshot`, `softAcDecel` and more)
-- **Gruvbox Material Dark** everywhere — consistent warm palette across terminal, editor, bar, GTK 3/4, and Rofi
-- **Floating-aware keybinds** — smart window movement that detects floating vs tiled and acts accordingly
-- **Custom pygame wallpaper picker** — interactive wallpaper switcher bound to `Super + W`
-- **cliphist integration** — text and image clipboard history, browsable via Rofi (`Super + V`)
-- **Transparent Kitty** — 85% opacity with Hyprland blur pass doing the heavy lifting
-- **Fastfetch with custom robot logo** — rendered inline in Kitty via the kitty graphics protocol
-
----
-
 ## ⌨️ Key Bindings
 
 | Shortcut | Action |
