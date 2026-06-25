@@ -18,11 +18,11 @@
 | | |
 |:---:|:---:|
 | ![Desktop](screenshots/desktop.png) | ![Overview](screenshots/overview.png) |
-| *Desktop* | *Overview (Hyprland workspace view)* |
+| *Desktop* | *Overview* |
 | ![Rofi Launcher](screenshots/rofi-launcher.png) | ![Clipboard](screenshots/clipboard.png) |
-| *Rofi App Launcher* | *Cliphist Clipboard Manager* |
-| ![Powermenu](screenshots/powermenu.png) | |
-| *Power Menu* | |
+| * App Launcher* |  *Clipboard Manager* |
+| ![Powermenu](screenshots/powermenu.png) | |![Wallpaper](screenshots/wallapaper.png) |
+| *Power Menu* | | *Wallpaper Selector |
 
 
 ---
