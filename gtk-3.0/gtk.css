@@ -1,0 +1,10 @@
+/* Rocky Earth - standalone */
+@define-color theme_selected_bg_color #2e2218;
+@define-color theme_selected_fg_color #d4be98;
+@define-color theme_hovering_selected_bg_color #3a2e20;
+@define-color insensitive_selected_bg_color #1e1c1a;
+@define-color insensitive_selected_fg_color #a89880;
+@define-color theme_bg_color #141210;
+@define-color theme_fg_color #a89880;
+@define-color theme_base_color #141210;
+@define-color theme_text_color #c4b49a;
