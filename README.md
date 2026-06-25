@@ -24,7 +24,6 @@
 | ![Powermenu](screenshots/powermenu.png) | |
 | *Power Menu* | |
 
-> **▶ [Watch the demo video](https://github.com/b1n4y4k/dotfiles/releases/download/v1.0/recording.mp4)**
 
 ---
 
